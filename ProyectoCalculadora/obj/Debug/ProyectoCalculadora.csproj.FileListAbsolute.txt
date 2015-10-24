@@ -1,0 +1,11 @@
+c:\users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe.config
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csprojResolveAssemblyReference.cache
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.MainWindow.resources
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.Properties.Resources.resources
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.csproj.GenerateResource.Cache
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.exe
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\ProyectoCalculadora.pdb
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.exe
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\obj\Debug\ProyectoCalculadora.pdb
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\DuCalculatorLogicLib.dll
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\ProyectoCalculadora\bin\Debug\DuCalculatorLogicLib.pdb

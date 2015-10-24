@@ -1,0 +1,5 @@
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\DuCalculatorLogicLib\bin\Debug\DuCalculatorLogicLib.dll
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\DuCalculatorLogicLib\bin\Debug\DuCalculatorLogicLib.pdb
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\DuCalculatorLogicLib\obj\Debug\DuCalculatorLogicLib.dll
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\DuCalculatorLogicLib\obj\Debug\DuCalculatorLogicLib.pdb
+C:\Users\cedo\documents\visual studio 2012\Projects\ProyectoCalculadora\DuCalculatorLogicLib\obj\Debug\DuCalculatorLogicLib.csprojResolveAssemblyReference.cache
